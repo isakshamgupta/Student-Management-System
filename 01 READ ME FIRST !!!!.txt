@@ -1,0 +1,8 @@
+STUDENT MANAGEMENT SYSTEM IN C++
+
+LOGIN DETAIL :-
+
+Username : admin
+Password : pass
+
+
